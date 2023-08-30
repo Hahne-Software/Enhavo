@@ -1,4 +1,4 @@
-package software.hahne;
+package software.hahne.enhavo;
 
 import io.quarkus.qute.Template;
 import io.quarkus.qute.TemplateInstance;

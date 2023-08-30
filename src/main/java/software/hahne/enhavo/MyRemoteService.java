@@ -1,4 +1,4 @@
-package software.hahne;
+package software.hahne.enhavo;
 
 import org.eclipse.microprofile.rest.client.inject.RegisterRestClient;
 

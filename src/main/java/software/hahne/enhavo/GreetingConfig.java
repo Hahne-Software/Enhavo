@@ -1,4 +1,4 @@
-package software.hahne;
+package software.hahne.enhavo;
 
 import io.smallrye.config.ConfigMapping;
 import io.smallrye.config.WithName;

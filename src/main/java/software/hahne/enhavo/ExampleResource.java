@@ -1,4 +1,4 @@
-package software.hahne;
+package software.hahne.enhavo;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;

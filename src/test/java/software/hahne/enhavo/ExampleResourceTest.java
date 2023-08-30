@@ -1,4 +1,4 @@
-package software.hahne;
+package software.hahne.enhavo;
 
 import io.quarkus.test.junit.QuarkusTest;
 import org.junit.jupiter.api.Test;
